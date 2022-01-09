@@ -1,4 +1,7 @@
-A personal website I developed using HTML, CSS, Javascript, and Bootstratp. It was accessible via www.pipicelli.com but unfortunately, hosting a website is expensive. Here's the code. Feel free to copy it for your own use, I don't mind :)
+- Hi, I’m Benjamin Pipicelli
+- I’m interested in the finance industry. More specifically quantitative finance, sales and trading, and banking
+- I’m currently studying mathematics and business administration @ Waterloo & Laurier. I'm planning to major in Actuarial Science and specialize in finance
+- Reach out to me via email bpipicel@uwaterloo.ca or LinkedIn @ Benjamin Pipicelli
 <!---
 BenPipicelli/BenPipicelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
